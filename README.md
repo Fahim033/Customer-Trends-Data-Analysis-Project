@@ -1,8 +1,7 @@
-<<<<<<< HEAD
 ## 📌 Project Overview
 The goal of this project is to simulate a corporate-grade end-to-end data analytics workflow, demonstrating the ability to translate raw data into strategic business intelligence by:
 
-✅ Data Preparation,Modeling & Exploratory Data Analysis (Python): Clean and transform the raw dataset for analysis.
+✅ Data Preparation, Modeling & Exploratory Data Analysis (Python): Clean and transform the raw dataset for analysis.
 
 ✅ Data Analysis (SQL): Simulate business transactions, and run queries to extract insights on customer segments, loyalty, and purchase drivers.
 
@@ -49,9 +48,3 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
       - Create project report
    
       - Build presentation deck using Gamma AI
-  
-
-
-=======
-# Customer-Trends-Data-Analysis-Project
->>>>>>> 9cba563e7dd709379fc926caffb8d2d729119db8
